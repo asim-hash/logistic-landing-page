@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5946e23-d49c-4ea3-8083-a03c19cd691f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/landing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/delivery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/move.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/truck.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/truck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/projects/freatle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/projects/mendelable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/projects/netsix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pulsar-bg-1200w-1x1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pulsar-bg-1280w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pulsar-bg-1920w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pulsar-bg-512w-1x1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pulsar-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HeroIndex.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeroIndex.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NavbarTop.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/NavbarTop.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ProjectsShowcase.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/ProjectsShowcase.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Team.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Team.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/TeamPerson.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/batman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/flash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/superman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ix4nCnPtzIrIFtOZ8tGU6my0ga" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5946e23-d49c-4ea3-8083-a03c19cd691f" name="Default Changelist" comment="" />
+      <created>1602836075944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602836075944</updated>
+      <workItem from="1602836077773" duration="12815000" />
+      <workItem from="1602911586460" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602863220218">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1602863220218" />
+    <state x="452" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602864439483">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="452" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1294.741@72.27.1294.741" timestamp="1602864439483" />
+    <state x="200" y="31" width="1037" height="737" key="SettingsEditor" timestamp="1602850354305">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="200" y="31" width="1037" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1602850354305" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602863905466">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1602863905466" />
+  </component>
+</project>
